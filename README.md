@@ -30,8 +30,11 @@ This is the list of amazing contributors
 * If you're a company in the cloud native or devops space that would like an ad or sponsor a full episode of the POPCAST, please send a note to <pop@popcastpop.io> .  Portions of the profits post show expenses are donated to various charities that support the community and growth of individuals.
 
 # Current (Past) Sponsors
-* raft
 * Cockroach Labs
+* Red Hat
+* Lightstep
+* Container Solutions
+* raft
 * Solo.io
 * Kinvolk
 * Giant Swarm
