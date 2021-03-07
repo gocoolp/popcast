@@ -59,3 +59,4 @@
 | 52 | Phil Estes | "The King of Containerd" | [YouTube](https://youtu.be/sLgC-zLNig4) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-52-the-king-of-containerd-with-phil-estes) |
 | 53 | Nicolas M. Chaillan | "Open Source and the United States government" | [YouTube](https://youtu.be/oAAb8wAM5yk) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-53-open-source-and-the-united-states-government-with-nicolas-m-chaillan) |
 | 54 | Matt Moore | "Serverless, Knative, and Zelda???" | [YouTube](https://youtu.be/krQ1bSXDkd8) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-54-serverless-and-zelda) |
+| 55 | Elan Feingold | "The Plex Episode" | [YouTube](https://youtu.be/grnx6vNg2MM) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-55-the-plex-episode-with-co-founder-cto-elan-feingold) |
