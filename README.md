@@ -44,6 +44,8 @@ This is the list of amazing contributors
 * Tremolo Security
 * Code Fresh
 * StormForge (formerly Carbon Relay)
+* Styra
+* Civo Cloud
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
