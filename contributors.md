@@ -10,3 +10,4 @@
 * [Walid Shaari](https://github.com/walidshaari)
 * [Erick De Carty](https://github.com/ebcarty)
 * [Cody Crudgington](https://github.com/thecrudge)
+* [Carlos Panato](https://github.com/cpanato)
