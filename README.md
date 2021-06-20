@@ -46,6 +46,7 @@ This is the list of amazing contributors
 * StormForge (formerly Carbon Relay)
 * Styra
 * Civo Cloud
+* Teleport
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
