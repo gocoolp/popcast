@@ -51,3 +51,5 @@
 * Constance Caramanolis  [@ccaramanolis](https://twitter.com/ccaramanolis)
 * Tabitha Sable        [@TabbySable](https://twitter.com/TabbySable)
 * Dave Sudia         [@thedevelopnik](https://twitter.com/thedevelopnik)
+* Jake Madders
+* Jon Lucas
