@@ -53,3 +53,4 @@
 * Dave Sudia         [@thedevelopnik](https://twitter.com/thedevelopnik)
 * Jake Madders
 * Jon Lucas
+* Emmanuelle Demompion  https://www.linkedin.com/in/emmanuelle-demompion Scaleway Kubernetes product manager
