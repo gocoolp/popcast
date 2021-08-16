@@ -32,6 +32,7 @@ This is the list of amazing contributors
 ![Sponsor Image](sponsors511.png)
 
 # Current (Past) Sponsors
+* Cisco
 * Cockroach Labs
 * Red Hat
 * Lightstep
@@ -47,6 +48,7 @@ This is the list of amazing contributors
 * Styra
 * Civo Cloud
 * Teleport
+* 
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
