@@ -48,7 +48,6 @@ This is the list of amazing contributors
 * Styra
 * Civo Cloud
 * Teleport
-* 
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
