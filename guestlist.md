@@ -55,3 +55,4 @@
 * Jon Lucas
 * Emmanuelle Demompion  https://www.linkedin.com/in/emmanuelle-demompion Scaleway Kubernetes product manager
 * Tihomir Surdilovic  [@tsurdilo](https://twitter.com/tsurdilo)
+* Gokul Prabagaren - [@gocool_p - https://twitter.com/gocool_p]
